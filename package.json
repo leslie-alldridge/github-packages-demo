@@ -1,0 +1,20 @@
+{
+  "name": "@leslie-alldridge/github-packages-demo",
+  "version": "1.0.0",
+  "description": "github-packages-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leslie-alldridge/github-packages-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leslie-alldridge/github-packages-demo/issues"
+  },
+  "homepage": "https://github.com/leslie-alldridge/github-packages-demo#readme"
+}
